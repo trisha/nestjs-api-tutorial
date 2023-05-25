@@ -8,4 +8,4 @@ import { BookmarkModule } from './bookmark/bookmark.module';
 })
 export class AppModule {}
 
-// https://www.youtube.com/watch?v=GHTA143_b-s 8:59 
+// https://www.youtube.com/watch?v=GHTA143_b-s 28:35
